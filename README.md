@@ -17,10 +17,12 @@
  💬 Ask me about **Node.js, React, Firebase, MySql... or anything [here](https://github.com/dulakshi-10)**
  
  </div>
- 
-<div align="center"> 
-  <a href="dulakshitsomarathna@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red alt="Gmail badge for Dulakshi Somarathna"" />
+ <div style="text-align:center;">
+  <a href="mailto:dulakshitsomarathna@gmail.com" aria-label="Email Dulakshi Somarathna">
+    <img
+      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
+      alt="Gmail badge for Dulakshi Somarathna"
+    />
   </a>
   <a href="www.linkedin.com/in/dulakshi-somarathna-754524356">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
