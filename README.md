@@ -21,15 +21,16 @@
  
  </div>
 <div align="center"> 
-  <a href="dulakshitsomarathna">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:dulakshitsomarathna@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail badge" />
   </a>
-  <a href="www.linkedin.com/in/dulakshi-somarathna-754524356">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://dulakshi-10.github.io/Portfolio">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+ <a href="https://www.linkedin.com/in/dulakshi-somarathna-754524356" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+<a href="https://dulakshi-10.github.io/Portfolio" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge" />
+</a>
+
 </div>
 
  <hr/>
