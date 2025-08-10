@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DulakshiSomarathna.DulakshiSomarathna" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dulakshitsomarathna.dulakshitsomarathna" alt="visitor badge" />
 </p>
 
 
