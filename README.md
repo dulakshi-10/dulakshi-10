@@ -22,9 +22,10 @@
  </div>
 <div align="center"> 
   <p align="center">
-  <a href="mailto:dulakshitsomarathna@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
+<a href="mailto:dulakshitsomarathna@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge" />
+</a>
+
 
  <a href="https://www.linkedin.com/in/dulakshi-somarathna-754524356" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
