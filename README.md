@@ -1,4 +1,4 @@
-You said:
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Dulakshi!;" />
@@ -20,7 +20,7 @@ You said:
  
 <div align="center"> 
   <a href="dulakshitsomarathna@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red alt="Gmail badge for Dulakshi Somarathna"" />
   </a>
   <a href="www.linkedin.com/in/dulakshi-somarathna-754524356">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
