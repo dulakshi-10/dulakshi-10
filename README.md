@@ -23,7 +23,7 @@
 <div align="center"> 
   <p align="center"> 
     
-  <a href="mailto:dulakshitsomarathna@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
+  <a href="mailto:dulakshitsomarathna@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right:10;">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
 
