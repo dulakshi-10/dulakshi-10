@@ -12,12 +12,13 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **To-Do List App**
- 
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo,PyCharm**
-
- 💬 Ask me about **Node.js, React, Firebase, MySql... or anything [here](https://github.com/dulakshi-10)**
+  
+ As an aspiring undergraduate in Higher National Diploma in Information
+Technology, I am eager to apply my strong foundational knowledge of programming
+and networking in a real-world setting. My passion for learning, problem-solving
+skills, and commitment to excellence position me well to contribute effectively as an IT
+intern. I am excited to gain hands-on experience, collaborate with teams, and further
+develop my skills to grow within the ever-evolving field of information technology.
  
  </div>
 <div align="center"> 
